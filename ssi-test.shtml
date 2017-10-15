@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Server-Side Include Test</title>
+</head>
+
+<body>
+    <h1>SSI Test</h1>
+    <!--#include file="ssi-test-frag.html" -->
+</body>
