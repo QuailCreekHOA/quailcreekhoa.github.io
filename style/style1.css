@@ -143,3 +143,10 @@ a:hover {
 .style_italic {
     font-style: italic;
 }
+
+iframe.header {
+    width:    100%;
+    height:   11em;
+    border:   none;
+    overflow: hidden;
+}
