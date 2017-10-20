@@ -44,6 +44,14 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+#fullwidth-content {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 #sidebar {
     float: right;
     width: 330px;
@@ -128,6 +136,14 @@ body {
     color: #2f4f4f;
     text-decoration: none;
 }
+
+iframe.header {
+    width:    100%;
+    height:   11em;
+    border:   none;
+    overflow: hidden;
+}
+
 /* Link Styles */
 a {
     color: #261;
@@ -137,16 +153,20 @@ a:hover {
     color: #708090;
     text-decoration: underline;
 }
+
 .style_bold {
     font-weight: bold;
 }
+
 .style_italic {
     font-style: italic;
 }
 
-iframe.header {
-    width:    100%;
-    height:   11em;
-    border:   none;
-    overflow: hidden;
+img.centered {
+    display: block;
+    margin: auto;
+}
+
+.centered {
+    text-align: center;
 }
