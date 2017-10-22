@@ -1,4 +1,4 @@
-QCHOA.net
+QCHOA.net / humans.txt
 ================================================================================
 
 HTML: Hand-authored, generally following Google's style guide
