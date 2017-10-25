@@ -5,30 +5,67 @@
   <link href="style/site.css" media="screen" rel="stylesheet" title="CSS">
   <style>
     body {
-        margin: 0;
-        background-image: none;
-        background-color: white;
-        overflow: hidden;
+      margin:  0;
+      padding: 0;
+      background-image: none;
+      background-color: white;
+      overflow: hidden;
     }
-    .auto-style1a { text-align: center; width: 639px; }
-    .auto-style1b { text-align: center; }
-    .auto-style2  { text-align: center; color: #0F0F80; }
-    ul            { width: 258px; }
+
+    h1 {
+      margin:         0.4em 0 0 0;
+      text-align:     center;
+      color:          #226611;
+      font-size:      2.0em;
+      font-weight:    normal;
+      text-transform: small-caps;
+      line-height:    0.9em;
+    }
+
+    h1 a       { text-decoration: none; }
+    h1 a:hover { text-decoration: none; }
+
+    h2 {
+      margin-top:  0.25em;
+      text-align:  center;
+      color:       #708090;
+      font-size:   1.25em;
+      font-weight: normal;
+    }
+
+    div.navbar {
+      margin-top: 1.5em;
+      text-align: center;
+    }
+
+    div.navbar a {
+      text-decoration: none;
+      margin: 0 0.2ex;
+      padding: 0.1em 1ex;
+      color: #fff8dc;
+      background-color: #8fbc8f;
+      border: 1px solid #708090;
+    }
+
+    div.navbar a:hover {
+      color: #226611;
+      background-color: #cccccc;
+    }
+
   </style>
 </head>
 
 
-<div class="auto-style1a" id="masthead">
-  <h1>Quail Creek Homeowners’ Association</h1>
-</div>
+<body>
+  <h1><a href="index.html" target='_top'>Quail Creek<br>Homeowners’ Association</a></h1>
 
-<h3 class="auto-style2">Quail Creek — Redmond, Washington</h3>
+  <h2>Redmond, Washington</h2>
 
-<div class="auto-style1b" id="navigation" style="width: 255px">
-  <ul>
-    <li><a target='_top' href="index.html">Home</a>
-    <li><a target='_top' href="homeowners.html">Homeowners</a>
-    <li><a target='_top' href="links.html">Links</a>
-    <li><a target='_top' href="contact.html">Contact</a>
-  </ul>
-</div>
+  <div class="navbar">
+    <a target='_top' href="index.html">Home</a>
+    <a target='_top' href="homeowners.html">Homeowners</a>
+    <a target='_top' href="links.html">Links</a>
+    <a target='_top' href="contact.html">Contact</a>
+  </div>
+
+</body>
