@@ -50,6 +50,10 @@ h2 {
   margin-bottom: -0.25em;
 }
 
+h1.top, h2.top, h3.top {
+  margin-top: 1em;
+}
+
 #content img {
     padding: 5px;
     border: 1px solid #708090;
