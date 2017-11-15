@@ -58,6 +58,11 @@ ul.spaced li {
     padding-bottom: 5px;
 }
 
+#fullwidth-content.subtle-anchor-underline a {
+    text-decoration: underline;
+    text-decoration-color: #a6ba90;
+}
+
 #sidebar {
     float: right;
     width: 330px;
