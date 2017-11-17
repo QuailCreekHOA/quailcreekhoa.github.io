@@ -2,8 +2,7 @@ QCHOA.net / humans.txt
 ================================================================================
 
 HTML: Hand-authored, generally following Google's style guide
-      (https://google.github.io/styleguide/htmlcssguide.html). I'm in the
-      process of cleaning up the HTML and slowly upgrading the site.
+      (https://google.github.io/styleguide/htmlcssguide.html).
 
 Host: GoDaddy
 
