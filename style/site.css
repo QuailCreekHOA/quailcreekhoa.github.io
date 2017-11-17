@@ -102,12 +102,12 @@ iframe.header {
 
 /* Link Styles */
 a {
-    color: #261;
-    text-decoration: underline;
+    color: #4418bc;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #708090;
+    color: #2529f4;
     text-decoration: underline;
 }
 
