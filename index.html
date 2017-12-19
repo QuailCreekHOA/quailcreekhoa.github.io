@@ -5,12 +5,30 @@
 
   <title>Home</title>
   <link href="style/site.css" media="screen" rel="stylesheet" title="CSS">
+
+  <style>
+    div.banner-overlay-right {
+      position: absolute;
+      right: -200px;
+    }
+  </style>
 </head>
 
 
 <body>
+
   <iframe class='header' src='item-header.html'></iframe>
+
   <div id="page_content">
+
+    <!-- Weather Widget -->
+    <div class="banner-overlay-right">
+      <a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWAREDMO109" target='wx'>
+        <img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250&weatherstationcount=KWAREDMO109"
+          width="188" height="112" border="0" alt="Weather Underground PWS KWAREDMO109">
+      </a>
+    </div>
+
     <div id="fullwidth-content">
 
       <img class="centered" src="images/front-sign-w670.jpg" width="670" height="342" alt="Quail Creek Sign">
