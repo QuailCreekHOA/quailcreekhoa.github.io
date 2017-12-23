@@ -34,8 +34,8 @@ ul.no-bullet {
     list-style-type: none;
 }
 
-li.space-after {
-    padding-bottom: 0.75em;
+li.sep-after {
+    border-bottom:  solid 2px #a6ba90;
 }
 
 
