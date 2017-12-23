@@ -34,6 +34,10 @@ ul.no-bullet {
     list-style-type: none;
 }
 
+li.space-after {
+    padding-bottom: 0.75em;
+}
+
 
 /* Special Divs */
 
