@@ -1,13 +1,18 @@
 QCHOA.net / humans.txt
 ================================================================================
 
-HTML: Hand-authored, generally following Google's style guide
-      (https://google.github.io/styleguide/htmlcssguide.html).
+Hosted by GoDaddy
 
-Host: GoDaddy
+HTML
+    Hand-authored, generally following Google's style guide
+    (https://google.github.io/styleguide/htmlcssguide.html).
 
-Repo: Publicly hosted at https://github.com/hollasch/qchoa. Please feel free to
-      submit issues or pull requests.
+Repo
+    Publicly hosted at https://github.com/hollasch/qchoa. Please feel free to
+    submit issues or pull requests.
+
+Attribution
+    Quail icon image © SilhouetteGarden.com
 
 
 -- Steve Hollasch <steve@hollasch.net>

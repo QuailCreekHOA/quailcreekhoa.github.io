@@ -6,4 +6,8 @@ https://hollasch.github.io/qchoa. When ready, contents are uploaded to our web h
 
 If you'd like to contribute, feel free to either log an issue or submit a pull request. Thanks!
 
+Attribution
+===========
+  Quail icon image © SilhouetteGarden.com
+
 — Steve Hollasch, steve@hollasch.net
