@@ -35,7 +35,8 @@ ul.no-bullet {
 }
 
 li.sep-after {
-    border-bottom:  solid 2px #a6ba90;
+    /* border-bottom:  solid 2px #a6ba90; */
+    padding-bottom: 0.80em;
 }
 
 
