@@ -34,6 +34,11 @@ ul.no-bullet {
     list-style-type: none;
 }
 
+li.sep-before {
+    /* border-bottom:  solid 2px #a6ba90; */
+    padding-top: 0.80em;
+}
+
 li.sep-after {
     /* border-bottom:  solid 2px #a6ba90; */
     padding-bottom: 0.80em;
@@ -78,6 +83,18 @@ li.sep-after {
     text-align: left;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+div.attributions {
+    margin-top: 8em;
+    font-size: smaller;
+    color: #666666;
+}
+
+div.attributions ul {
+    list-style-type: none;
+    margin-left: -6ex;
+    text-align: center;
 }
 
 
