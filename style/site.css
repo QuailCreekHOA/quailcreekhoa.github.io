@@ -14,7 +14,6 @@ h2 {
     color:         #334040;
     font-weight:   normal;
     margin-top:    1.25em;
-    margin-bottom: -0.25em;
 }
 
 h1.top, h2.top, h3.top {
@@ -24,6 +23,18 @@ h1.top, h2.top, h3.top {
 img.centered {
     display: block;
     margin: auto;
+}
+
+summary:after {
+    background-color: red;
+}
+
+details ul {
+    margin-top: 0;
+}
+
+ul.no-top-space {
+    margin-top: -0.75em;
 }
 
 ul.spaced li {
@@ -154,6 +165,14 @@ a:hover {
 
 .indented {
     margin-left: 4ex;
+}
+
+.no-top-space {
+    margin-top: 0;
+}
+
+.no-bottom-space {
+    margin-bottom: 0;
 }
 
 /* vim: set tw=100 sw=4 : */
