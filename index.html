@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
-  <!-- See Google style guide: https://google.github.io/styleguide/htmlcssguide.html -->
 
   <title>Quail Creek Homeowners Association</title>
   <link rel='icon' href='qchoa-icon-016.png' type='image/png' sizes='16x16'>
@@ -13,9 +12,9 @@
   <link href="style/site.css" media="screen" rel="stylesheet" title="CSS">
 
   <style>
-    div.banner-overlay-right {
-      position: absolute;
-      right: -200px;
+    div.wx-widget {
+      margin-top: 3em;
+      float: right;
     }
   </style>
 </head>
@@ -27,14 +26,6 @@
 
   <div id="page_content">
 
-    <!-- Weather Widget -->
-    <div class="banner-overlay-right">
-      <a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWAREDMO109" target='wx'>
-        <img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250&weatherstationcount=KWAREDMO109"
-          width="188" height="112" border="0" alt="Weather Underground PWS KWAREDMO109">
-      </a>
-    </div>
-
     <div id="fullwidth-content">
 
       <img class="centered" src="images/front-sign-w670.jpg" width="670" height="342" alt="Quail Creek Sign">
@@ -44,14 +35,15 @@
       <a href="documents.html">HOA documents</a>, <a href="links.html">links to local resources</a>,
       and information about <a href="contact.html">the HOA itself</a>.
 
-      <h2>Homeowners Annual Meeting</h2>
-      <p>We held our annual neighborhood meeting on Sunday, December 17 at the Hollasch's house.
-      You can find the meeting materials and minutes in our <a href="documents.html">
-      documents section</a>. Also, Arden Kuhn joins the board as our new treasurer, and Andrew
-      Schoenfeld is our front entrance supervisor (helped by Erik Ploof).
+      <!-- Weather Widget -->
+      <div class="wx-widget">
+        <a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWAREDMO109"
+           target='wx'>
+          <img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250&weatherstationcount=KWAREDMO109"
+            width="188" height="112" border="0" alt="Weather Underground PWS KWAREDMO109">
+        </a>
+      </div>
 
     </div>
   </div>
 </body>
-
-<!-- vim: set sw=2 tw=100 : (Modeline for VIM editors.) -->
