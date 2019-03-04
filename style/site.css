@@ -25,6 +25,10 @@ img.centered {
     margin: auto;
 }
 
+table.spaced td {
+    padding-bottom: 0.5em;
+}
+
 summary:after {
     background-color: red;
 }
