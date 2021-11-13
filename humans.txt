@@ -1,18 +1,19 @@
 QCHOA.net / humans.txt
 ================================================================================
 
-Hosted by GoDaddy
+Hosted by GitHub. Domain name 'qchoa.net' managed at GoDaddy.
 
 HTML
     Hand-authored, generally following Google's style guide
     (https://google.github.io/styleguide/htmlcssguide.html).
 
-Repo
-    Publicly hosted at https://github.com/hollasch/qchoa. Please feel free to
-    submit issues or pull requests.
+GitHub Repo
+    Hosted from 'https://github.com/QuailCreekHOA/quailcreekhoa.github.io' using
+    GitHub Pages. Please feel free to submit issues or pull requests.
 
 Attribution
     Quail icon image © SilhouetteGarden.com
 
-
--- Steve Hollasch <steve@hollasch.net>
+--
+Steve Hollasch <steve@hollasch.net>
+Lori Hollasch <lori@hollasch.net>
