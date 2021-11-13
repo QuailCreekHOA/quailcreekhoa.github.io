@@ -5,8 +5,10 @@ This project is the source for the http://qchoa.net web site. This content is ma
 in the QuailCreekHOA organization: https://github.com/QuailCreekHOA.
 
 If you'd like to contribute, feel free to either [log an issue][] or [submit a pull request][]. We
-recommend creating an issue before submitting a pull request, to avoid wasted work. If you have any
-questions, send email to steve@hollach.net or lori@hollasch.net.
+recommend creating an issue before submitting a pull request, to avoid wasted work. Also let us know
+if you are willing to be added to the list of maintainers.
+
+Questions? Send email to steve@hollach.net or lori@hollasch.net.
 
 
 Site Management
