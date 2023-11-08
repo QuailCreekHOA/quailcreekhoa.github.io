@@ -1,7 +1,7 @@
 QCHOA.net / humans.txt
 ================================================================================
 
-Hosted by GitHub. Domain name 'qchoa.net' managed at GoDaddy.
+Hosted by GitHub. The domain name 'qchoa.net' is managed at GoDaddy.
 
 HTML
     Hand-authored, generally following Google's style guide
@@ -16,4 +16,3 @@ Attribution
 
 --
 Steve Hollasch <steve@hollasch.net>
-Lori Hollasch <lori@hollasch.net>
