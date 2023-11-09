@@ -14,8 +14,7 @@ Questions? Send email to steve@hollach.net or lori@hollasch.net.
 Site Management
 ----------------
 The qchoa.net web site is currently hosted on GitHub, using a domain registered at GoDaddy.com
-(that's what the `CNAME` file is for at the root of this workspace). Our site uses standard
-HTML+CSS.
+(that's what the `CNAME` file is for at the root of this workspace). Our site uses vanilla HTML+CSS.
 
 
 Attribution
