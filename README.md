@@ -8,7 +8,7 @@ If you'd like to contribute, feel free to either [log an issue][] or [submit a p
 recommend creating an issue before submitting a pull request, to avoid wasted work. Also let us know
 if you are willing to be added to the list of maintainers.
 
-Questions? Send email to steve@hollach.net or lori@hollasch.net.
+Questions? [Send email to Steve][steve].
 
 
 Site Management
@@ -25,4 +25,5 @@ Quail icon image © SilhouetteGarden.com
 
 [GitHub]:                https://github.com/
 [log an issue]:          https://github.com/QuailCreekHOA/quailcreekhoa.github.io/issues
+[steve]:                 mailto:steve@hollasch.net
 [submit a pull request]: https://github.com/QuailCreekHOA/quailcreekhoa.github.io/pulls
